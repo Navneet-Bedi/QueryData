@@ -1,0 +1,2 @@
+# QueryData
+Developed an application that uses XQuery to turn XML database of songs to virtual relational table and takes SQL query from the user and returns HTML table of songs that match. Facelets was used to create a form that allows user to input an SQL query. XMLType table was used to store the XML file and this is the database.After the query is processed the output is displayed in an table format.
